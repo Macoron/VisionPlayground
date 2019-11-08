@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/admin/VisionPlaygrounds.playground/Pages/FaceDetection_Image.xcplaygroundpage#CharacterRangeLen=4&amp;CharacterRangeLoc=2507&amp;EndingColumnNumber=9&amp;EndingLineNumber=88&amp;StartingColumnNumber=5&amp;StartingLineNumber=88&amp;Timestamp=594911729.1441931"
+         lockedSize = "{462, 329}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/admin/VisionPlaygrounds.playground/Pages/FaceDetection_Image.xcplaygroundpage#CharacterRangeLen=10&amp;CharacterRangeLoc=2555&amp;EndingColumnNumber=15&amp;EndingLineNumber=89&amp;StartingColumnNumber=5&amp;StartingLineNumber=89&amp;Timestamp=594911729.144354"
+         lockedSize = "{830.74123989218333, 481}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
