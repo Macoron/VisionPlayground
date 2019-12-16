@@ -2,6 +2,7 @@
 <playground version='6.0' target-platform='ios'>
     <pages>
         <page name='FaceDetection_Image'/>
-        <page name='Untitled Page'/>
+        <page name='QRCodeDetector'/>
+        <page name='TextDetector'/>
     </pages>
 </playground>
